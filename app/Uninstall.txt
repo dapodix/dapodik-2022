@@ -1,0 +1,8 @@
+================
+Aplikasi Dapodik 
+================
+
+Untuk meng-uninstall, masuk ke Control Panel > Add/Remove Programs.
+Mohon diperhatikan bahwa DATA YANG TERSIMPAN AKAN DIHAPUS jika aplikasi di-uninstall.
+Jika data sudah terisi, lakukan sinkronisasi terlebih dahulu ke server dan pastikan
+data telah terupdate di server sebelum menghapus / meng-uninstall aplikasi.

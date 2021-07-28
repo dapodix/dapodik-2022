@@ -1,0 +1,51 @@
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET / HTTP/1.1" 302 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/ HTTP/1.1" 200 7576 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/stylesheets/normalize.css HTTP/1.1" 200 6876 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/stylesheets/all.css HTTP/1.1" 200 481698 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/javascripts/modernizr.js HTTP/1.1" 200 51365 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/images/xampp-logo.svg HTTP/1.1" 200 5427 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/images/bitnami-xampp.png HTTP/1.1" 200 22133 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/javascripts/all.js HTTP/1.1" 200 188385 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/images/fastly-logo.png HTTP/1.1" 200 1770 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:39 +0700] "GET /dashboard/images/social-icons.png HTTP/1.1" 200 3361 "http://localhost:8888/dashboard/stylesheets/all.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:40 +0700] "GET /dashboard/images/favicon.png HTTP/1.1" 200 2508 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:46 +0700] "GET /dashboard/phpinfo.php HTTP/1.1" 200 91939 "http://localhost:8888/dashboard/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:16:32:46 +0700] "GET /favicon.ico HTTP/1.1" 200 30894 "http://localhost:8888/dashboard/phpinfo.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+::1 - - [25/Jan/2019:17:15:27 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:15:29 +0700] "GET /phpinfo.php HTTP/1.1" 200 80384
+::1 - - [25/Jan/2019:17:15:52 +0700] "GET / HTTP/1.1" 200 316
+::1 - - [25/Jan/2019:17:15:54 +0700] "GET / HTTP/1.1" 200 316
+::1 - - [25/Jan/2019:17:15:57 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:15:58 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:17:52 +0700] "GET /phpinfo.php HTTP/1.1" 200 80384
+::1 - - [25/Jan/2019:17:17:53 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:22:53 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:22:54 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:22:55 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:22:56 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:27:55 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:46:02 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:46:03 +0700] "GET /phpinfo.php HTTP/1.1" 200 80384
+::1 - - [25/Jan/2019:17:47:58 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:48:00 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:48:00 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:48:01 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:49:05 +0700] "GET /phpinfo.php HTTP/1.1" 200 80385
+::1 - - [25/Jan/2019:17:52:30 +0700] "GET /phpinfo.php HTTP/1.1" 200 80299
+::1 - - [25/Jan/2019:17:52:33 +0700] "GET /phpinfo.php HTTP/1.1" 200 80300
+::1 - - [25/Jan/2019:17:52:33 +0700] "GET /phpinfo.php HTTP/1.1" 200 80300
+::1 - - [25/Jan/2019:17:52:33 +0700] "GET /phpinfo.php HTTP/1.1" 200 80300
+::1 - - [25/Jan/2019:17:54:41 +0700] "GET /phpinfo.php HTTP/1.1" 200 94222
+::1 - - [25/Jan/2019:17:54:42 +0700] "GET /phpinfo.php HTTP/1.1" 200 94223
+::1 - - [25/Jan/2019:17:55:37 +0700] "GET / HTTP/1.1" 200 316
+::1 - - [25/Jan/2019:17:57:07 +0700] "GET / HTTP/1.1" 200 74
+::1 - - [25/Jan/2019:17:57:10 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:17:57:12 +0700] "GET / HTTP/1.1" 500 17171
+::1 - - [25/Jan/2019:17:57:15 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:01:29 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:01:30 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:03:16 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:03:17 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:10:32 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:10:33 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050
+::1 - - [25/Jan/2019:18:10:33 +0700] "GET /phpinfo.php HTTP/1.1" 200 100050

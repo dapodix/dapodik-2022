@@ -1,0 +1,26 @@
+<body>
+<div id="form">
+<fieldset class="fieldset">
+<legend><h3>versi 2022</h3></legend>
+	<ol>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan atribut jumlah laik pada data alat periodik.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan atribut alamat_jalan, rt, rw, nama_dusun, desa_kelurahan, kode_wilayah, kode_pos, lintang, bujur dan wilayah pada formulir tanah.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan atribut sub-ruang pada formulir ruang khusus jenjang SMK.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan panjang karakter pada atribut No SKHUN dan No Peserta Ujian pada formulir registrasi peserta didik.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan beberapa atribut guna keperluan pemangku kepentingan pada riwayat sertifikasi GTK.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan atribut jenis bidang usaha pada formulir bidang usaha khusus jenjang SMK.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan atribut pekerjaan pada formulir peserta didik khusus jenjang PKBM dan SKB (guna mengakomodir warga belajar).</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan tabel dinamis guna kepentingan yang bersifat sementara.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait syarat menjadi Kepala Sekolah atau PLT Kepala Sekolah.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait sanitasi.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait pengisian KIP/PIP.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait batas minimal masuk peserta didik untuk jenjang TK adalah 4 tahun.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait batas maksimal peserta didik untuk jenjang PAUD (TK, KB, TPA dan SPS) adalah 7 tahun.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait batas maksimal peserta didik adalah 72 tahun (Sesuai usia harapan hidup pendudukan Indonesia).</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan info terkait pengisian Survey PTM.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Proses kelulusan bersama tingkat akhir.</li>
+
+		<li><b style="color:green">[Perbaikan]</b> Perubahan bisnis proses pada penginputan ruang dan sub-ruang khusus jenjang SMK.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perubahan paksa untuk merubah password pada pertama kali login (Pergantian password secara rutin).</li>
+	</ol>
+</fieldset>

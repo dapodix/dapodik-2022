@@ -1,0 +1,252 @@
+The 'DapodikWebSrv' service is restarting.
+The 'DapodikWebSrv' service has restarted.
+] [pid 10820:tid 712] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 17:53:08.479508 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.3.1 configured -- resuming normal operations
+[Fri Jan 25 17:53:08.479508 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 17:53:08.479508 2019] [core:notice] [pid 10820:tid 712] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 17:53:08.483808 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00418: Parent: Created child process 10140
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:53:09.569309 2019] [ssl:warn] [pid 10140:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:53:09.662866 2019] [ssl:warn] [pid 10140:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP:  syntax error, unexpected '(' in C:\Program Files (x86)\Dapodik\php\php.ini on line 726
+[Fri Jan 25 17:53:09.675256 2019] [mpm_winnt:notice] [pid 10140:tid 644] AH00354: Child: Starting 150 worker threads.
+The 'DapodikWebSrv' service is restarting.
+The 'DapodikWebSrv' service has restarted.
+t:notice] [pid 10820:tid 712] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:53:37.055752 2019] [ssl:warn] [pid 10820:tid 712] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 17:53:37.411153 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.3.1 configured -- resuming normal operations
+[Fri Jan 25 17:53:37.412327 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 17:53:37.412327 2019] [core:notice] [pid 10820:tid 712] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 17:53:37.416433 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00418: Parent: Created child process 10580
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:53:38.547542 2019] [ssl:warn] [pid 10580:tid 632] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:53:38.643672 2019] [ssl:warn] [pid 10580:tid 632] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP:  syntax error, unexpected '(' in C:\Program Files (x86)\Dapodik\php\php.ini on line 1369
+[Fri Jan 25 17:53:38.676854 2019] [mpm_winnt:notice] [pid 10580:tid 632] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 25 17:53:38.879378 2019] [mpm_winnt:notice] [pid 10140:tid 644] AH00364: Child: All worker threads have exited.
+The 'DapodikWebSrv' service is restarting.
+The 'DapodikWebSrv' service has restarted.
+t:notice] [pid 10820:tid 712] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:54:32.846369 2019] [ssl:warn] [pid 10820:tid 712] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 17:54:32.870207 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.3.1 configured -- resuming normal operations
+[Fri Jan 25 17:54:32.870207 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 17:54:32.870207 2019] [core:notice] [pid 10820:tid 712] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 17:54:32.874168 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00418: Parent: Created child process 9996
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:54:33.951833 2019] [ssl:warn] [pid 9996:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:54:34.059355 2019] [ssl:warn] [pid 9996:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 17:54:34.096424 2019] [mpm_winnt:notice] [pid 9996:tid 644] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 25 17:54:34.733736 2019] [mpm_winnt:notice] [pid 10580:tid 632] AH00364: Child: All worker threads have exited.
+The 'DapodikWebSrv' service is restarting.
+The 'DapodikWebSrv' service has restarted.
+t:notice] [pid 10820:tid 712] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:56:55.282776 2019] [ssl:warn] [pid 10820:tid 712] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[Fri Jan 25 17:56:56.451373 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14 configured -- resuming normal operations
+[Fri Jan 25 17:56:56.451373 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 17:56:56.451373 2019] [core:notice] [pid 10820:tid 712] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 17:56:56.454472 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00418: Parent: Created child process 7112
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:56:57.552977 2019] [ssl:warn] [pid 7112:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 17:56:57.641540 2019] [ssl:warn] [pid 7112:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+MIB search path: c:/usr/share/snmp/mibs
+Cannot find module (IP-MIB): At line 0 in (none)
+Cannot find module (IF-MIB): At line 0 in (none)
+Cannot find module (TCP-MIB): At line 0 in (none)
+Cannot find module (UDP-MIB): At line 0 in (none)
+Cannot find module (HOST-RESOURCES-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-SMI): At line 0 in (none)
+Cannot find module (NOTIFICATION-LOG-MIB): At line 0 in (none)
+Cannot find module (UCD-SNMP-MIB): At line 0 in (none)
+Cannot find module (UCD-DEMO-MIB): At line 0 in (none)
+Cannot find module (SNMP-TARGET-MIB): At line 0 in (none)
+Cannot find module (NET-SNMP-AGENT-MIB): At line 0 in (none)
+Cannot find module (DISMAN-EVENT-MIB): At line 0 in (none)
+Cannot find module (SNMP-VIEW-BASED-ACM-MIB): At line 0 in (none)
+Cannot find module (SNMP-COMMUNITY-MIB): At line 0 in (none)
+Cannot find module (SNMP-FRAMEWORK-MIB): At line 0 in (none)
+Cannot find module (SNMP-MPD-MIB): At line 0 in (none)
+Cannot find module (SNMP-USER-BASED-SM-MIB): At line 0 in (none)
+Cannot find module (SNMP-NOTIFICATION-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-TM): At line 0 in (none)
+[Fri Jan 25 17:56:57.750192 2019] [mpm_winnt:notice] [pid 7112:tid 644] AH00354: Child: Starting 150 worker threads.
+The 'DapodikWebSrv' service is restarting.
+The 'DapodikWebSrv' service has restarted.
+t:notice] [pid 10820:tid 712] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 18:01:25.199980 2019] [ssl:warn] [pid 10820:tid 712] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[Fri Jan 25 18:01:25.299749 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14 configured -- resuming normal operations
+[Fri Jan 25 18:01:25.299749 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 18:01:25.299749 2019] [core:notice] [pid 10820:tid 712] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 18:01:25.305147 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00418: Parent: Created child process 7520
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 18:01:26.439455 2019] [ssl:warn] [pid 7520:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 18:01:26.526270 2019] [ssl:warn] [pid 7520:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+MIB search path: c:/usr/share/snmp/mibs
+Cannot find module (IP-MIB): At line 0 in (none)
+Cannot find module (IF-MIB): At line 0 in (none)
+Cannot find module (TCP-MIB): At line 0 in (none)
+Cannot find module (UDP-MIB): At line 0 in (none)
+Cannot find module (HOST-RESOURCES-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-SMI): At line 0 in (none)
+Cannot find module (NOTIFICATION-LOG-MIB): At line 0 in (none)
+Cannot find module (UCD-SNMP-MIB): At line 0 in (none)
+Cannot find module (UCD-DEMO-MIB): At line 0 in (none)
+Cannot find module (SNMP-TARGET-MIB): At line 0 in (none)
+Cannot find module (NET-SNMP-AGENT-MIB): At line 0 in (none)
+Cannot find module (DISMAN-EVENT-MIB): At line 0 in (none)
+Cannot find module (SNMP-VIEW-BASED-ACM-MIB): At line 0 in (none)
+Cannot find module (SNMP-COMMUNITY-MIB): At line 0 in (none)
+Cannot find module (SNMP-FRAMEWORK-MIB): At line 0 in (none)
+Cannot find module (SNMP-MPD-MIB): At line 0 in (none)
+Cannot find module (SNMP-USER-BASED-SM-MIB): At line 0 in (none)
+Cannot find module (SNMP-NOTIFICATION-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-TM): At line 0 in (none)
+[Fri Jan 25 18:01:26.643177 2019] [mpm_winnt:notice] [pid 7520:tid 644] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 25 18:01:27.079035 2019] [mpm_winnt:notice] [pid 7112:tid 644] AH00364: Child: All worker threads have exited.
+The 'DapodikWebSrv' service is restarting.
+The 'DapodikWebSrv' service has restarted.
+t:notice] [pid 10820:tid 712] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 18:03:13.403712 2019] [ssl:warn] [pid 10820:tid 712] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[Fri Jan 25 18:03:13.700127 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14 configured -- resuming normal operations
+[Fri Jan 25 18:03:13.701299 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 18:03:13.701299 2019] [core:notice] [pid 10820:tid 712] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 18:03:13.706489 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00418: Parent: Created child process 7684
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 18:03:14.846449 2019] [ssl:warn] [pid 7684:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+AH00112: Warning: DocumentRoot [C:/Program Files (x86)/Dapodik/webserver/htdocs] does not exist
+[Fri Jan 25 18:03:14.940472 2019] [ssl:warn] [pid 7684:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+MIB search path: c:/usr/share/snmp/mibs
+Cannot find module (IP-MIB): At line 0 in (none)
+Cannot find module (IF-MIB): At line 0 in (none)
+Cannot find module (TCP-MIB): At line 0 in (none)
+Cannot find module (UDP-MIB): At line 0 in (none)
+Cannot find module (HOST-RESOURCES-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-SMI): At line 0 in (none)
+Cannot find module (NOTIFICATION-LOG-MIB): At line 0 in (none)
+Cannot find module (UCD-SNMP-MIB): At line 0 in (none)
+Cannot find module (UCD-DEMO-MIB): At line 0 in (none)
+Cannot find module (SNMP-TARGET-MIB): At line 0 in (none)
+Cannot find module (NET-SNMP-AGENT-MIB): At line 0 in (none)
+Cannot find module (DISMAN-EVENT-MIB): At line 0 in (none)
+Cannot find module (SNMP-VIEW-BASED-ACM-MIB): At line 0 in (none)
+Cannot find module (SNMP-COMMUNITY-MIB): At line 0 in (none)
+Cannot find module (SNMP-FRAMEWORK-MIB): At line 0 in (none)
+Cannot find module (SNMP-MPD-MIB): At line 0 in (none)
+Cannot find module (SNMP-USER-BASED-SM-MIB): At line 0 in (none)
+Cannot find module (SNMP-NOTIFICATION-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-TM): At line 0 in (none)
+[Fri Jan 25 18:03:15.053595 2019] [mpm_winnt:notice] [pid 7684:tid 644] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 25 18:03:15.273715 2019] [mpm_winnt:notice] [pid 7520:tid 644] AH00364: Child: All worker threads have exited.
+[Fri Jan 25 18:09:41.431154 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jan 25 18:09:43.434208 2019] [mpm_winnt:notice] [pid 7684:tid 644] AH00364: Child: All worker threads have exited.
+[Fri Jan 25 18:09:43.462660 2019] [mpm_winnt:notice] [pid 10820:tid 712] AH00430: Parent: Child process 7684 exited successfully.
+Starting the 'DapodikWebSrv' service
+The 'DapodikWebSrv' service is running.
+arn] [pid 10340:tid 736] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 18:10:28.528848 2019] [ssl:warn] [pid 10340:tid 736] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+[Fri Jan 25 18:10:28.640216 2019] [mpm_winnt:notice] [pid 10340:tid 736] AH00455: Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.2.14 configured -- resuming normal operations
+[Fri Jan 25 18:10:28.640539 2019] [mpm_winnt:notice] [pid 10340:tid 736] AH00456: Apache Lounge VC15 Server built: Nov 21 2018 11:27:36
+[Fri Jan 25 18:10:28.640539 2019] [core:notice] [pid 10340:tid 736] AH00094: Command line: 'C:\\Program Files (x86)\\Dapodik\\webserver\\bin\\httpd.exe -d C:/Program Files (x86)/Dapodik/webserver'
+[Fri Jan 25 18:10:28.644992 2019] [mpm_winnt:notice] [pid 10340:tid 736] AH00418: Parent: Created child process 5580
+[Fri Jan 25 18:10:29.770960 2019] [ssl:warn] [pid 5580:tid 656] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 25 18:10:29.861277 2019] [ssl:warn] [pid 5580:tid 656] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'interbase' (tried: C:/Program Files (x86)/Dapodik/php/ext\\interbase (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_interbase.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:/Program Files (x86)/Dapodik/php/ext\\oci8_12c (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_firebird (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:/Program Files (x86)/Dapodik/php/ext\\pdo_oci (The specified module could not be found.), C:/Program Files (x86)/Dapodik/php/ext\\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+MIB search path: c:/usr/share/snmp/mibs
+Cannot find module (IP-MIB): At line 0 in (none)
+Cannot find module (IF-MIB): At line 0 in (none)
+Cannot find module (TCP-MIB): At line 0 in (none)
+Cannot find module (UDP-MIB): At line 0 in (none)
+Cannot find module (HOST-RESOURCES-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-SMI): At line 0 in (none)
+Cannot find module (NOTIFICATION-LOG-MIB): At line 0 in (none)
+Cannot find module (UCD-SNMP-MIB): At line 0 in (none)
+Cannot find module (UCD-DEMO-MIB): At line 0 in (none)
+Cannot find module (SNMP-TARGET-MIB): At line 0 in (none)
+Cannot find module (NET-SNMP-AGENT-MIB): At line 0 in (none)
+Cannot find module (DISMAN-EVENT-MIB): At line 0 in (none)
+Cannot find module (SNMP-VIEW-BASED-ACM-MIB): At line 0 in (none)
+Cannot find module (SNMP-COMMUNITY-MIB): At line 0 in (none)
+Cannot find module (SNMP-FRAMEWORK-MIB): At line 0 in (none)
+Cannot find module (SNMP-MPD-MIB): At line 0 in (none)
+Cannot find module (SNMP-USER-BASED-SM-MIB): At line 0 in (none)
+Cannot find module (SNMP-NOTIFICATION-MIB): At line 0 in (none)
+Cannot find module (SNMPv2-TM): At line 0 in (none)
+[Fri Jan 25 18:10:29.977410 2019] [mpm_winnt:notice] [pid 5580:tid 656] AH00354: Child: Starting 150 worker threads.
