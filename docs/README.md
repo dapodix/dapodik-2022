@@ -13,7 +13,7 @@ Aplikasi Dapodik versi 2022. Untuk Windows XP / Vista / 7 / 8 / 10.
 
 - [Unduh Installer](https://github.com/dapodix/dapodik-2022/releases/download/2022.1.1/Dapodik_2022.exe)
 - [Unduh Installer - SMK](https://github.com/dapodix/dapodik-2022/releases/download/2022.1.1/Dapodik_2022_SMK.exe)
-- [Daftar Perubahan](changelog.md##aplikasi-dapodik-2022)
+- [Daftar Perubahan](changelog.md#aplikasi-dapodik-2022)
 
 ***
 
