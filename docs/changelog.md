@@ -1,5 +1,13 @@
 # Daftar Perubahan Aplikasi Dapodik 2021
 
+## Aplikasi Dapodik 2022.a
+
+- [Pembaruan] Terakomodirnya kurikulum baru yaitu Kurikulum Merdeka bagi sekolah penggerak untuk jenjang SD, SMP dan SMA.
+- [Perbaikan] Dibukanya inputan untuk nilai UPK bagi jenjang PKBM/SKB (Diperuntukan bagi satuan pendidikan yang belum mengisi nilai UPK peserta didik).
+- [Perbaikan] Perbaikan bugs pada saat meluluskan bagi jenjang KB, TPA dan SPS.
+- [Perbaikan] Perbaikan validasi untuk pengecekan nama peserta didik dan nama ibu kandung yang mengandung char tab dan enter (dibuka hanya semester ganji TA 2021/2022).
+- [Perbaikan] Penyesuaian validasi pembelajaran untuk Kurikulum Merdeka.
+
 ## Aplikasi Dapodik 2022
 
 - [Pembaruan] Penambahan atribut jumlah laik pada data alat periodik.
