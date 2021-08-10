@@ -1,6 +1,16 @@
 <body>
 <div id="form">
 <fieldset class="fieldset">
+<legend><h3>versi 2022.a</h3></legend>
+	<ol>
+		<li><b style="color:green">[Pembaruan]</b> Terakomodirnya kurikulum baru yaitu Kurikulum Merdeka bagi sekolah penggerak untuk jenjang SD, SMP dan SMA.</li>
+		<li><b style="color:green">[Perbaikan]</b> Dibukanya inputan untuk nilai UPK bagi jenjang PKBM/SKB (Diperuntukan bagi satuan pendidikan yang belum mengisi nilai UPK peserta didik).</li>
+		<li><b style="color:green">[Perbaikan]</b> Perbaikan bugs pada saat meluluskan bagi jenjang KB, TPA dan SPS.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perbaikan validasi untuk pengecekan nama peserta didik dan nama ibu kandung yang mengandung char tab dan enter (dibuka hanya semester ganji TA 2021/2022).</li>
+		<li><b style="color:green">[Perbaikan]</b> Penyesuaian validasi pembelajaran untuk Kurikulum Merdeka.</li>
+	</ol>
+</fieldset>
+<fieldset class="fieldset">
 <legend><h3>versi 2022</h3></legend>
 	<ol>
 		<li><b style="color:blue">[Pembaruan]</b> Penambahan atribut jumlah laik pada data alat periodik.</li>
